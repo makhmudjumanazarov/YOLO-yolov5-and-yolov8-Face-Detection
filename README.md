@@ -14,3 +14,7 @@ Fluid simulation:
 
 
 
+
+
+https://github.com/makhmudjumanazarov/YOLO-yolov5-and-yolov8-Face-Detection/assets/95900131/add1de06-7941-4f12-87ff-10de91c7b120
+
